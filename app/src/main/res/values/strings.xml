@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="Button1">Ποδηλατόδρομοι</string>
+    <string name="Button2">Χάρτες</string>
+    <string name="Button3">Επισκευές</string>
+    <string name="Button4">Χρονόμετρο</string>
+    <string name="Button5">ΕΠΙΓΟΥΣΑ ΚΛΗΣΗ</string>
+    <string name="Button6">Έναρξη</string>
+    <string name="Button7">Πάυση</string>
+    <string name="Button8">Μηδενισμός</string>
+    <string name="Button9">Βενζινάδικα</string>
+
+    <string name="Button10">Βίντεο επισκευών</string>
+
+    <string name="timerVal">0:0:00</string>
+
+</resources>
